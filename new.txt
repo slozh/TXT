@@ -1,0 +1,6 @@
+firstname: Evgeniy
+lastname: Slozhenikin
+middlename: Valentinovich
+age: 31
+numberofpets: 0
+salary: 300
